@@ -8,4 +8,8 @@
     <RootNamespace>SubLight.SqlServer</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SubLight.Abstractions\SubLight.Abstraction.csproj" />
+  </ItemGroup>
+
 </Project>
