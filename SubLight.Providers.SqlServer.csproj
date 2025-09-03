@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SubLight.Abstractions\SubLight.Abstraction.csproj" />
+    <ProjectReference Include="..\SubLight.Sql.Core\SubLight.Sql.Core.csproj" />
   </ItemGroup>
 
 </Project>
