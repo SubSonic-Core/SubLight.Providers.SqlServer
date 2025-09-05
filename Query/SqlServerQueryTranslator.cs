@@ -1,6 +1,6 @@
-﻿using SubLight.Query;
+﻿using SubLight.Sql.Query;
 
-namespace SubLight.SqlServer.Query
+namespace SubLight.Sql.SqlServer.Query
 {
     public class SqlServerQueryTranslator
         : SqlQueryTranslatorBase

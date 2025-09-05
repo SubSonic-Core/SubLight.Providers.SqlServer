@@ -1,4 +1,4 @@
-﻿namespace SubLight.SqlServer
+﻿namespace SubLight.Sql.SqlServer
 {
     internal class SqlServerDialect
         : ISqlDialect

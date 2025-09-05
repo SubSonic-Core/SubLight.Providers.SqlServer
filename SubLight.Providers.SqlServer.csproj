@@ -5,7 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <AssemblyName>SubLight.Providers.SqlServer</AssemblyName>
-    <RootNamespace>SubLight.SqlServer</RootNamespace>
+    <RootNamespace>SubLight.Sql.SqlServer</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SubLight.Sql.Core\SubLight.Sql.Core.csproj" />
+    <ProjectReference Include="..\SubLight.Sql.Abstractions\SubLight.Sql.Abstractions.csproj" />
   </ItemGroup>
 
 </Project>
